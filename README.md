@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anas</h1>
-<h3 align="center">A passionate junior Computer Science student specializing in Cybersecurity at Qatar University, I am deeply passionate about the intersection of technology and society. With a keen interest in AI, I am driven to explore its potential contributions to societal advancement.</h3>
+<h3 align="center">A passionate senior Computer Science student specializing in Cybersecurity at Qatar University, I am deeply passionate about the intersection of technology and society. With a keen interest in AI, I am driven to explore its potential contributions to societal advancement.</h3>
 
 - 🔭 I’m currently working on **Web-project-phase2**
 
