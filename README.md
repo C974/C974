@@ -9,7 +9,10 @@
 
 - 📫 How to reach me **ansamr76@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/anas-madkoor-035224298/](https://www.linkedin.com/in/anas-madkoor-035224298/)
+- 📄 Know about my experiences [https://anas-madkoor-portfolio.vercel.app/](https://anas-madkoor-portfolio.vercel.app/)
+
+- 📄 My Linkedin [https://www.linkedin.com/in/anas-madkoor-035224298/](https://www.linkedin.com/in/anas-madkoor-035224298/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
